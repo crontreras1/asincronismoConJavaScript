@@ -1,0 +1,9 @@
+2. Introducción al asinconismo
+    
+   - Asincronismo: Es la acción que no ocurre al mismo tiempo.
+   - Memory heap: El espacio de memoria compartido para toda nuestra aplicación.  
+   - Call Stack = Pila de ejecución.
+
+3. Presentación del reto: consumir APIs
+
+    Las prinsipales estructuras que utiliza JS para trabajar con el asinconismo son: Callbacks, promesas y design y away. 
